@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <br>
-  <a href=""><img src="https://i.imgur.com/WHk078k.png" alt="Computer Graphics Sessional"></a>
+  <a href=""><img src="https://i.imgur.com/2ZTrFnQ.png" alt="Computer Graphics Sessional"></a>
   <br>
 Project for <a href="https://www.spaceappschallenge.org/"><span style="color:blue;">NASA International Space Apps Challenge</span></a> 2021
   <br>
