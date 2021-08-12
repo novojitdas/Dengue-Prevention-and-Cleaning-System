@@ -16,9 +16,12 @@ Project for <a href="https://www.spaceappschallenge.org/"><span style="color:blu
 
 ## Project Description 
 
-400 million peoples around the world are getting infected with dengue virus. Most of them can be simply avoided by reducing the mosquito habitat.When we are creating this project, more than 200 patients hospitalized just because of dengue in last 24 hours.
+400 million peoples around the world are getting infected with dengue virus. Pollution and stucked water is creating large impact on mosquito habitat.Most of them can be simply avoided by reducing the mosquito habitat.
 
-So our team take the responsibilities of reducing the dengue mosquito habitat of Dhaka City. 
+When we are creating this project, more than 200 patients hospitalized just because of dengue in last 24 hours. So our will team takes the responsibility of reducing the dengue mosquito habitat of Dhaka City. We divided the Dhaka city into 7 separate zones.
+
+
+Based on local people's everyday report.We created a datasheet of pollution. Our cleaner team will work one day of a week in each zone. Also based on reports, if we find more than 25% reports than others from a zone. We will send our team to that zone using priority basis. 
 
 <p align="center">
   <br>
