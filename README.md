@@ -32,9 +32,9 @@ Based on local people's everyday report.We created a datasheet of pollution. Our
 </p>
 
 # Demo View
-<p align="center">
+
 <iframe style="width:100%;height:400px" src="https://www.google.com/maps/d/embed?mid=1QyxIUaecnCVHygdtDl2ivEBj6S4aR881" ></iframe>
-</p>
+
 
 
 
