@@ -33,8 +33,13 @@ Based on local people's everyday report.We created a datasheet of pollution. Our
 
 # Demo View
 
-<iframe width="100%" height="400px" src="https://www.google.com/maps/d/embed?mid=1QyxIUaecnCVHygdtDl2ivEBj6S4aR881" ></iframe>
-
+<p align="center">
+  <br>
+  <a href=""><img src="https://i.imgur.com/sj6WGiI.png" alt="Computer Graphics Sessional"></a>
+  <br>
+  <strong>Cleaned Area is colored with <span style="color:green;">Green</span> and another is <span style="color:red;">Red</span> </strong>
+  <br>
+</p>
 
 
 
