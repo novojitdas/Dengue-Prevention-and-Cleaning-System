@@ -2,8 +2,8 @@
 
 ## 1) Tools / PL / Framework
 - Javascript 
-- Google map api 
-- Bootstrap 
+- Leaflet
+- React 
 
 ##2) Project Idea
 
@@ -36,8 +36,8 @@
 
 - Need to divide the Dhaka city into 7 zone using google map api and polygon shaping.
 - Mark the reported area with red dot. 
-- Cleaning Progress Card with details information when clicking with mouse (using jquery/dom).
-- reporting input fields form (optional)
+- Cleaning Progress Card with details information when clicking with mouse ().
+- reporting input fields form (optional) 
 
 
 
