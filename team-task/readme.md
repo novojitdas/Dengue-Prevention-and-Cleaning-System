@@ -5,7 +5,7 @@
 - Leaflet
 - React 
 
-##2) Project Idea
+## 2) Project Idea
 
 ### A) Basic Task
 
