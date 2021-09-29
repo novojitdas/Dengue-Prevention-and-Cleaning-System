@@ -10,9 +10,9 @@ Project for <a href="https://www.spaceappschallenge.org/"><span style="color:blu
 
 ## Team Members 
 
-| [Novojit Das](https://github.com/novojitdas) | [MD. Mizanur Rahman](https://github.com/sohanr) | [Shamim Miah](https://github.com/ShamimOsmanPailot) | [AK Ashik](https://github.com/ashk11534) | [Towhidul Islam](https://github.com/tiarman) |
-| :-: | :-: | :-: |:-:|:-:|
-|[![](https://github.com/novojitdas.png?size=50)](https://github.com/novojitdas) | [![](https://github.com/sohanr.png?size=50)](https://github.com/sohanr)  | [![](https://github.com/ShamimOsmanPailot.png?size=50)](https://github.com/ShamimOsmanPailot)  |  [![](https://github.com/ashk11534.png?size=50)](https://github.com/ashk11534)  | [![](https://github.com/tiarman.png?size=50)](https://github.com/tiarman) |
+| [Novojit Das](https://github.com/novojitdas) | [MD. Mizanur Rahman](https://github.com/sohanr) | [AK Ashik](https://github.com/ashk11534) | [Towhidul Islam](https://github.com/tiarman) |
+| :-: | :-: | :-: |:-:|
+|[![](https://github.com/novojitdas.png?size=50)](https://github.com/novojitdas) | [![](https://github.com/sohanr.png?size=50)](https://github.com/sohanr)  | [![](https://github.com/ashk11534.png?size=50)](https://github.com/ashk11534)  | [![](https://github.com/tiarman.png?size=50)](https://github.com/tiarman) |
 
 ## Project Description 
 Hello, We are the students of Stamford University Bangladesh. Bringing to all the new solution of preventing dengue mosquito's habitat. Also, Providing the idea of quick cleaning solution of our city to reduce dengue and all kinds of mosquito related problems.  
