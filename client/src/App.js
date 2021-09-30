@@ -1,10 +1,10 @@
+import 'leaflet/dist/leaflet.css';
 import './App.css';
+import Home from './components/Home/Home';
 
 function App() {
   return (
-    <div className="App">
-        <h1>Dengue Prevention and cleaning system Coming soon.........</h1>
-    </div>
+    <Home/>
   );
 }
 
