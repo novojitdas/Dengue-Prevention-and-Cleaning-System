@@ -2,3 +2,8 @@
     width: 1400px;
     height: 800px;
 }
+.greenZone{
+    color: greenyellow;
+    height: 200px;
+    position:static;
+}

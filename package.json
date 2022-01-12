@@ -15,8 +15,10 @@
     "react-hook-form": "^7.16.2",
     "react-leaflet": "^3.2.1",
     "react-loader-bubble": "^1.0.2",
+    "react-modal": "^3.14.3",
     "react-router-dom": "^5.3.0",
     "react-scripts": "4.0.3",
+    "reactstrap": "^8.10.0",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
